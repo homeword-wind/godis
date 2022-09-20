@@ -1,0 +1,21 @@
+# binaries foor programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.aof
+*.rdb
+
+# test binary
+*.test
+
+# output of go coverage tool, specifically when used with LiteIDE
+*.out
+target/
+coverage.txt
+
+logs
+
+.idea
+*.iml
